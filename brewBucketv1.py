@@ -15,6 +15,7 @@ curs = db.cursor()
 os.system("modprobe w1-gpio")
 os.system("modprobe w1-therm")
 
+#GIT COMMENT PLEASE IGNORE
 
 
 baseDir = "/sys/bus/w1/devices/"
