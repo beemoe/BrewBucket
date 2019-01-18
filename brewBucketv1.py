@@ -60,6 +60,7 @@ def readSensor(sensorId):
 #	except:
 #		print('Write Fail')
 
+#THIS IS A COMMENT
 
 print('Welcome\nPress \'s\' to start!')
 cmd=str(raw_input('Command: '))
